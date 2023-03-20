@@ -1,0 +1,35 @@
+﻿TOPIC
+    about_poshbox
+
+SHORT DESCRIPTION
+    This module will allow you to perform administrative actions in a box
+    enterprise
+
+LONG DESCRIPTION
+    This module will allow you to perform administrative actions in a box
+    enterprise
+
+Optional Subtopics
+
+EXAMPLES
+
+NOTE
+    Several of the functions in this module contain a parameter named "fields",
+    an array of strings which allows you to specifiy which properties of the
+    returned object are visible.  The values that are passed to this parrameter
+    depend upon the box object type that the command is referencing.  I would
+    recommend downloading the portable application ILSpy
+    (https://github.com/icsharpcode/ILSpy) and opening the "box.v2.dll" assembly
+    located in the "library" folder of this module.  Then, expand the tree view
+    for the assembly to Box.v2.models, and this will contain all of the
+    different box object types.  Just select one (eg. BoxFile) and the valid
+    items you can include in the string array that you pass to the "fields"
+    parameter can be shown for each box object.
+
+TROUBLESHOOTING NOTE
+
+SEE ALSO
+    https://gitlab.com/whiggs/poshbox
+    https://github.com/box/box-windows-sdk-v2
+
+KEYWORDS
