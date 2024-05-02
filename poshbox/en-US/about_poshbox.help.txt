@@ -29,7 +29,7 @@ NOTE
 TROUBLESHOOTING NOTE
 
 SEE ALSO
-    https://gitlab.com/whiggs/poshbox
+    https://github.com/enthusedcoder/poshbox
     https://github.com/box/box-windows-sdk-v2
 
 KEYWORDS

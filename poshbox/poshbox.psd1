@@ -225,7 +225,7 @@
 			LicenseUri = 'https://cdn.statically.io/gl/whiggs/poshbox/master/LICENSE'
 			
 			# A URL to the main website for this project.
-			ProjectUri = 'https://gitlab.com/whiggs/poshbox'
+			ProjectUri = 'https://github.com/enthusedcoder/poshbox'
 			
 			# A URL to an icon representing this module.
 			IconUri = 'https://cdn.statically.io/gl/whiggs/chocolateypackages/master/icons/box.png'
