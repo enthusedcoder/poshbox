@@ -16,7 +16,7 @@ EXAMPLES
 NOTE
     Several of the functions in this module contain a parameter named "fields",
     an array of strings which allows you to specifiy which properties of the
-    returned object are visible.  The values that are passed to this parrameter
+    returned object are visible.  The values that are passed to this parameter
     depend upon the box object type that the command is referencing.  I would
     recommend downloading the portable application ILSpy
     (https://github.com/icsharpcode/ILSpy) and opening the "box.v2.dll" assembly
